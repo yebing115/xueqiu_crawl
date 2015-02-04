@@ -2,7 +2,8 @@
 ========
 ## usage   
 install [pyspider](https://github.com/binux/pyspider)   
-install mongodb   
+install mongodb  
+**use you own cookies, change it in pyspider projects and xueqiu_cube_crawl.py**  
 in this directory run   
 * `pyspider`
 
